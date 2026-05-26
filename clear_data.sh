@@ -40,7 +40,7 @@ clear_report() {
             # Timpa file database lama dengan file sementara yang sudah difilter
             mv temp_db.txt "$DATA_FILE"
 
-            echo "Penghapusan selesai! Data '$del_plant' dengan luas '$del_area m2' (jika ada) telah dihapus."
+            echo "Penghapusan selesai! Data '$del_plant' dengan luas '$del_area m2' telah dihapus."
             ;;
         3)
             echo "Kembali ke menu utama..."
