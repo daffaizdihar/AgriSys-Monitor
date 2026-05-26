@@ -1,0 +1,27 @@
+==================================================
+Tanggal Input       : 2026-05-26
+Tanaman             : Padi
+Luas Lahan          : 500 m2
+Kebutuhan Air       : 3100 Liter
+Kebutuhan Pupuk     : 125 Kg
+Jadwal Penyiraman   : Setiap hari
+Jadwal Pemupukan    : 10 hari sekali
+Estimasi Panen      : 2026-10-03
+==================================================
+Tanggal Input       : 2026-05-26
+Tanaman             : Terong
+Luas Lahan          : 500 m2
+Kebutuhan Air       : 2000 Liter
+Kebutuhan Pupuk     : 25 Kg
+Jadwal Penyiraman   : 1 kali sehari
+Jadwal Pemupukan    : 14 hari sekali
+Estimasi Panen      : 2026-08-24
+==================================================
+Tanggal Input       : 2026-05-26
+Tanaman             : Jagung
+Luas Lahan          : 100 m2
+Kebutuhan Air       : 450 Liter
+Kebutuhan Pupuk     : 7 Kg
+Jadwal Penyiraman   : 1 kali sehari
+Jadwal Pemupukan    : 14 hari sekali
+Estimasi Panen      : 2026-09-18
